@@ -1,7 +1,14 @@
 
-
+import './footer.scss'
 export const Footer = () => {
     return(
-        <h1>This is the footer</h1>
+        <div className="footer">
+            <div>
+                Movie App
+            </div>
+            <div>
+                2022, Movie, Inc. or its affiliates
+            </div>
+        </div>
     )
 }
