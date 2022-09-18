@@ -4,6 +4,7 @@ import { Footer } from "./components/Footer/Footer";
 import { Header } from "./components/Header/Header";
 import { Home } from "./Pages/Home";
 import { MovieDetail } from "./Pages/MovieDetail/MovieDetail";
+import './App.scss'
 function App() {
 
   return (
